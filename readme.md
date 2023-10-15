@@ -13,5 +13,5 @@ curl http://localhost:8080/albums \
 ```
 
 ### Further Reading
-https://gin-gonic.com/docs/
-https://go.dev/doc/tutorial/web-service-gin
+- https://gin-gonic.com/docs/
+- https://go.dev/doc/tutorial/web-service-gin
